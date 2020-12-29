@@ -1,9 +1,9 @@
-# EXECARD SELFBOT:
+# EXECARD SELFBOT ~
 
 # Setup
 - Install [Python](https://www.python.org/downloads/release/python-390) with `Add Python to PATH` box
 
-- Download [Source](https://github.com/Jeancys/Execard-Selfbot/archive/main.zip) and extract
+- Download [Source](https://github.com/Ecyss/Execard-Selfbot/archive/main.zip) and extract
 
 - Install modules with `installer.bat`
 
@@ -12,9 +12,6 @@
 - Go to the `password` area and type your password (OPTIONAL) 
 
 - Run selfbot with `launcher.bat`
-
-[![Run on Repl.it](https://repl.it/badge/github/Jeancys/Execard-Selfbot)](https://repl.it/github.com/Jeancys/Execard-Selfbot)
-
 
 # Q&A
 - Q: **`SSL Certificate Error`**
@@ -26,11 +23,6 @@
 - Q: **`TypeError: __new__() got an unexpected keyword argument 'deny_new'`**
 - A: This error occured on an old installation of discord.py to fix simply run :`pip install -U discord.py` this updates discord.py!
 
-# Credits
-
-Credits to Syz#6631 and coats.#4321 for helping make this.
-also Thanks to Alucard, Exeter, PH-SB, Lucifer, and TNO selfbots for giving me the Idea to put them together to make a great Selfbot.
-
-## WARN
+## WARNING
 
 Selfbots are against TOS, use at your own risk.
